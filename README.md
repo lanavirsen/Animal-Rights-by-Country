@@ -44,6 +44,10 @@ Hovering over a country reveals a tooltip displaying the following details:
 - Any laws against animal cruelty
 - Support at the United Nations
 
+![Figure 2](https://github.com/lanavirsen/Animal-Rights-by-Country/blob/main/Figure_2.png)
+
+*Figure 2: Example of tooltips for different countries.*
+
 ## Table of Contents
 
 - [Data Preprocessing](#data-preprocessing)
