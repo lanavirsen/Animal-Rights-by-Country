@@ -10,9 +10,11 @@ For each of the 93 countries in the table, the following five questions are addr
 
 - Recognition of animal sentience
 - Recognition of animal suffering
-- Anti-cruelty laws meet OIE standards
+- Anti-cruelty laws meet OIE* standards
 - Any laws against animal cruelty
 - Support at the United Nations
+
+*OIE: the **World Organisation for Animal Health** (**WOAH**), formerly the **Office International des Epizooties** (**OIE**), is an intergovernmental organisation founded in 1924, coordinating, supporting and promoting animal disease control.
 
 ### Tools
 
