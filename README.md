@@ -1,4 +1,4 @@
-# Visualization: Animal Rights by Country
+# :paw_prints: Visualization: Animal Rights by Country
 
 ## Introduction
 
@@ -30,7 +30,7 @@ For each of the 93 countries in the table, the following five questions are addr
 
 ### Outcome
 
-[SCREENSHOT]
+![Figure 1](https://github.com/lanavirsen/Animal-Rights-by-Country/blob/main/Figure_1.png)
 
 *Figure 1: Screenshot of the visualization.*
 
@@ -43,6 +43,16 @@ Hovering over a country reveals a tooltip displaying the following details:
 - Anti-cruelty laws meet OIE standards
 - Any laws against animal cruelty
 - Support at the United Nations
+
+## Table of Contents
+
+- [Data Preprocessing](#data-preprocessing)
+  - [Importing the Necessary Libraries](#importing-the-necessary-libraries)
+  - [Scraping the Data from Wikipedia](#scraping-the-data-from-wikipedia)
+  - [Cleaning the Data](#cleaning-the-data)
+  - [Converting String Values to Numerical Scores](#converting-string-values-to-numerical-scores)
+  - [Saving the Result to a CSV File](#saving-the-result-to-a-csv-file)
+- [Creating an Interactive Visualization](#creating-an-interactive-visualization)
 
 ## Project Workflow
 
@@ -214,8 +224,12 @@ THEN ATTR([Recognition of animal sentience])
 END
 ```
 
+The tooltip example:
+
+![Tooltip](https://github.com/lanavirsen/Animal-Rights-by-Country/blob/main/Tooltip.png)
+
 The finished visualization:
 
-[SCREENSHOT]
+![Screenshot](https://github.com/lanavirsen/Animal-Rights-by-Country/blob/main/Figure_1.png)
 
 [Click here to view the interactive Tableau visualization](https://public.tableau.com/views/AnimalRightsbyCountry/MasterView?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
